@@ -15,7 +15,6 @@ A modern React application that combines **real-time weather forecasts** with in
 
 - **React** – Core framework for building the UI  
 - **MUI (Material-UI)** – Prebuilt, customizable UI components  
-- **Axios** – API requests for weather data  
 - **Tailwind CSS** – Utility-first styling for rapid design  
 - **Leaflet + React Leaflet** – Interactive maps and markers  
 
